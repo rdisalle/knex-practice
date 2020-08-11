@@ -80,4 +80,4 @@ INSERT INTO amazong_products (name, price, category, image) VALUES
   ('Everlasting gobstopper',        1.00, 'Grocery', null),
   ('Grain',                         665.99, 'Electronics', null);
 
-COMMIT;
+COMMI
